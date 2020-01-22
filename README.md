@@ -7,9 +7,9 @@ A ideia do projeto é criar um aplicativo semelhante ao do Instagram, usando a s
 
 ## Funcionalidades
 
-- Listar todos os Posts
 - Criação de Posts
-- Poder dar Likes nos Post
+- Listar todos os Posts
+- Posts podem receber Likes
 - Posts e Likes atualizam em tempo real
 
 ## Backend
